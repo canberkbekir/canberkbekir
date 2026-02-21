@@ -51,7 +51,7 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 | Project | Description |
 |---|---|
-| [chatdev-with-go](https://github.com/canberkbekir/chatdev-with-go) | Chat application built in Go |
+| [chatdev-with-go](https://github.com/canberkbekir/chatdev-with-go) | Multi-agent LLM software dev framework in Go |
 | [go-image-generator-discord-bot](https://github.com/canberkbekir/go-image-generator-discord-bot) | Discord bot for AI image generation (Go) |
 | [multiplayer_kitchen](https://github.com/canberkbekir/multiplayer_kitchen) | Multiplayer cooking game in Unity |
 | [pewpew-custom-engine](https://github.com/canberkbekir/pewpew-custom-engine) | Custom game engine built in C++ |
