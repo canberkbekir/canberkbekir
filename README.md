@@ -1,22 +1,49 @@
-# Hi, I'm Canberk 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FABD2F&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Canberk+%F0%9F%91%8B;Game+Engine+Developer;Backend+%26+Systems+Engineer;Always+Building.+Always+Learning." alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=canberkbekir&color=fe8019&style=flat-square&label=Profile+Views)](https://github.com/canberkbekir)
+
+</div>
 
 I'm a developer passionate about **game engines**, **game development**, and **backend systems**. I love building things from scratch — whether that's a custom game engine in C++ or a Go-powered API.
 
 ---
 
-## 🔧 What I Work With
+## 🔧 Tech Stack
 
 **Game Development**
-- Unity · C# · Game Mechanics · Multiplayer
+
+![Unity](https://img.shields.io/badge/Unity-282828?style=for-the-badge&logo=unity&logoColor=FABD2F)
+![C#](https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=csharp&logoColor=B8BB26)
 
 **Engine Development**
-- C · C++ · OpenGL · GLFW · ImGui · GLM · Jolt Physics
+
+![C++](https://img.shields.io/badge/C%2B%2B-282828?style=for-the-badge&logo=cplusplus&logoColor=FE8019)
+![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=83A598)
+![OpenGL](https://img.shields.io/badge/OpenGL-282828?style=for-the-badge&logo=opengl&logoColor=8EC07C)
+![GLFW](https://img.shields.io/badge/GLFW-282828?style=for-the-badge&logo=opengl&logoColor=D3869B)
+![ImGui](https://img.shields.io/badge/ImGui-282828?style=for-the-badge&logo=imgui&logoColor=FB4934)
 
 **Backend & Systems**
-- Go · REST APIs · Discord Bots · AI Agents
+
+![Go](https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=83A598)
 
 **Web & Other**
-- HTML · JavaScript · Python
+
+![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=FABD2F)
+![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=FBB13C)
+![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934)
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=canberkbekir&theme=gruvbox&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -36,9 +63,15 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 ## 📊 GitHub Stats
 
-![Canberk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canberkbekir&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkbekir&layout=compact&theme=dark&hide_border=true)
+![Canberk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canberkbekir&show_icons=true&theme=gruvbox&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=canberkbekir&theme=gruvbox&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkbekir&layout=compact&theme=gruvbox&hide_border=true)
+
+</div>
 
 ---
 
