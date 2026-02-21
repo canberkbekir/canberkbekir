@@ -51,13 +51,12 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 | Project | Description |
 |---|---|
-| [pewpew-custom-engine](https://github.com/canberkbekir/pewpew-custom-engine) | Custom game engine built in C++ |
-| [game-engine-glfw](https://github.com/canberkbekir/game-engine-glfw) | OpenGL game engine using GLFW |
-| [jolt-physics-premake](https://github.com/canberkbekir/jolt-physics-premake) | Jolt Physics integration with Premake |
-| [agent-project-manager](https://github.com/canberkbekir/agent-project-manager) | AI-powered project manager built in Go |
-| [VampireSurvivorClone](https://github.com/canberkbekir/VampireSurvivorClone) | Vampire Survivor clone made in Unity |
-| [multiplayer_kitchen](https://github.com/canberkbekir/multiplayer_kitchen) | Multiplayer cooking game in Unity |
+| [chatdev-with-go](https://github.com/canberkbekir/chatdev-with-go) | Chat application built in Go |
 | [go-image-generator-discord-bot](https://github.com/canberkbekir/go-image-generator-discord-bot) | Discord bot for AI image generation (Go) |
+| [multiplayer_kitchen](https://github.com/canberkbekir/multiplayer_kitchen) | Multiplayer cooking game in Unity |
+| [pewpew-custom-engine](https://github.com/canberkbekir/pewpew-custom-engine) | Custom game engine built in C++ |
+| [roster-fight-simulator](https://github.com/canberkbekir/roster-fight-simulator) | Fight roster simulator in C# |
+| [VampireSurvivorClone](https://github.com/canberkbekir/VampireSurvivorClone) | Vampire Survivor clone made in Unity |
 
 ---
 
