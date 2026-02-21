@@ -12,28 +12,11 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 ## 🔧 Tech Stack
 
-**Game Development**
+<div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-282828?style=for-the-badge&logo=unity&logoColor=FABD2F)
-![C#](https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=csharp&logoColor=B8BB26)
+<img src="https://skillicons.dev/icons?i=cpp,c,go,cs,unity,py,js,html&theme=dark" />
 
-**Engine Development**
-
-![C++](https://img.shields.io/badge/C%2B%2B-282828?style=for-the-badge&logo=cplusplus&logoColor=FE8019)
-![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=83A598)
-![OpenGL](https://img.shields.io/badge/OpenGL-282828?style=for-the-badge&logo=opengl&logoColor=8EC07C)
-![GLFW](https://img.shields.io/badge/GLFW-282828?style=for-the-badge&logo=opengl&logoColor=D3869B)
-![ImGui](https://img.shields.io/badge/ImGui-282828?style=for-the-badge&logo=imgui&logoColor=FB4934)
-
-**Backend & Systems**
-
-![Go](https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=83A598)
-
-**Web & Other**
-
-![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=FABD2F)
-![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=FBB13C)
-![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934)
+</div>
 
 ---
 
@@ -74,11 +57,25 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 ---
 
+## 🕹️ Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canberkbekir/canberkbekir/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canberkbekir/canberkbekir/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/canberkbekir/canberkbekir/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📫 Get in Touch
 
-- 🌐 Website: [canberkbekiroglu.com](https://canberkbekiroglu.com)
-- 💼 LinkedIn: [linkedin.com/in/canberk-bekiroglu](https://www.linkedin.com/in/canberk-bekiroglu)
-- 🐙 GitHub: [github.com/canberkbekir](https://github.com/canberkbekir)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-FE8019?style=for-the-badge&logo=googlechrome&logoColor=white)](https://canberkbekiroglu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canberk-bekiroglu)
+[![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=white)](https://github.com/canberkbekir)
+
+</div>
 
 ---
 
