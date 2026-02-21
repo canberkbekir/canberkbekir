@@ -76,7 +76,9 @@ I'm a developer passionate about **game engines**, **game development**, and **b
 
 ## 📫 Get in Touch
 
-- GitHub: [github.com/canberkbekir](https://github.com/canberkbekir)
+- 🌐 Website: [canberkbekiroglu.com](https://canberkbekiroglu.com)
+- 💼 LinkedIn: [linkedin.com/in/canberk-bekiroglu](https://www.linkedin.com/in/canberk-bekiroglu)
+- 🐙 GitHub: [github.com/canberkbekir](https://github.com/canberkbekir)
 
 ---
 
