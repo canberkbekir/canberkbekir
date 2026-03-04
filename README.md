@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FABD2F&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Canberk+%F0%9F%91%8B;Game+Engine+Developer;Backend+%26+Systems+Engineer;Always+Building.+Always+Learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FABD2F&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Canberk+%F0%9F%91%8B;Game+Engine+Developer;Backend+%26+Systems+Engineer" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=canberkbekir&color=fe8019&style=flat-square&label=Profile+Views)](https://github.com/canberkbekir)
 
