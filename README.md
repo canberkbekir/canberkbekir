@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a developer passionate about **game engines**, **game development**, and **backend systems**. I love building things from scratch — whether that's a custom game engine in C++ or a Go-powered API.
+I'm a developer passionate about **game engines**, **game development**, **C++ Developer** and **backend systems**. I love building things from scratch — whether that's a custom game engine in C++ or a Go-powered API.
 
 ---
 
