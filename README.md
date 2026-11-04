@@ -37,6 +37,7 @@ I'm a developer passionate about **game engines**, **game development**, **C++ D
 | [chatdev-with-go](https://github.com/canberkbekir/chatdev-with-go) | Multi-agent LLM software dev framework in Go |
 | [pewpew-custom-engine](https://github.com/canberkbekir/pewpew-custom-engine) | Custom game engine built in C++ |
 | [omarchy-sysmon](https://github.com/canberkbekir/omarchy-sysmon) | Omarchy shell plugin: live CPU/GPU/memory/fan monitor with a tabbed popup, history graphs and a process manager (QML) |
+| [omarchy-remote](https://github.com/canberkbekir/omarchy-remote) | Turn your phone into a remote, trackpad, keyboard and Xbox-style game controller for your Omarchy PC: one Go binary plus a Home Screen web app (Go) |
 
 ---
 
